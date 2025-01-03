@@ -2,7 +2,7 @@
 [[`arXiv`](https://arxiv.org/abs/2303.13606)]
 
 This repo contains the Pytorch implementation of our ICCV 2023 paper:
-> [**Adaptive Similarity Bootstrapping for Self-Distillation based Representation Learning**](https://arxiv.org/pdf/2303.13245.pdf)
+> [**Adaptive Similarity Bootstrapping for Self-Distillation based Representation Learning**](https://arxiv.org/pdf/2303.13606.pdf)
 >
 > [Tim Lebailly*](https://www.timlebailly.com/), [Thomas Stegmüller*](https://people.epfl.ch/thomas.stegmuller?lang=en), [Behzad Bozorgtabar](https://behzadbozorgtabar.com/), [Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/), and [Jean-Philippe Thiran](https://people.epfl.ch/jean-philippe.thiran).
 
